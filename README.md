@@ -1,2 +1,5 @@
-# Scikit-Learn
-The Dataset and The Problem to Solve  In this guide, we’ll use an IMDB dataset of 50k movie reviews available on Kaggle. The dataset contains 2 columns (review and sentiment) that will help us identify whether a review is positive or negative.  Problem formulation: Our goal is to find which machine learning model is best suited to predict sentiment (output) given a movie review (input).
+
+### The Dataset: 
+We’ll use an IMDB dataset of 50 000 movie reviews available on Kaggle. The dataset contains 2 columns (review and sentiment) that will help identify whether a review is positive or negative.  
+### Problem formulation:
+To find which machine learning model is best suited to predict sentiment (output) given a movie review (input).
